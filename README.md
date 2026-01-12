@@ -6,6 +6,8 @@ This project provisions a completely **Serverless Architecture** for a user mana
 
 It demonstrates the "Pay-per-Request" model, utilizing AWS Lambda for compute, API Gateway for routing, and DynamoDB for NoSQL storage.
 
+![Architecture Diagram](mermaid-diagram-2026-01-11-211543.png)
+
 ## 🏗 Architecture
 
 * **API Gateway (HTTP API v2):** The entry point. It accepts HTTP requests and routes them to the Lambda function.
